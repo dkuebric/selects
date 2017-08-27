@@ -1,4 +1,4 @@
-baseurl = "https://dkuebric.github.io/selects"
+baseurl = "https://dkuebric.github.io/selects/"
 title = "selects.show - a revue of independent podcasting"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
