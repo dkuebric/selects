@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>selects.show - a revue of independent podcasting</title>
-    <link>https://dkuebric.github.io/selects/</link>
+    <link>https://dkuebric.github.io/selects/asdf/</link>
     <description>Recent content on selects.show - a revue of independent podcasting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Selects Show Copyright (c) 2017, Ben Kuebrich</copyright>
     <lastBuildDate>Tue, 25 Aug 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dkuebric.github.io/selects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dkuebric.github.io/selects/asdf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Episode 1 Preview</title>
-      <link>https://dkuebric.github.io/selects/episodes/2015/08/25/episode-1/</link>
+      <link>https://dkuebric.github.io/selects/asdf/episodes/2015/08/25/episode-1/</link>
       <pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://dkuebric.github.io/selects/episodes/2015/08/25/episode-1/</guid>
+      <guid>https://dkuebric.github.io/selects/asdf/episodes/2015/08/25/episode-1/</guid>
       <description>&lt;p&gt;Welcome to Selects.  Here’s a preview episode, explaining the show:&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -25,19 +25,19 @@
     
     <item>
       <title>About</title>
-      <link>https://dkuebric.github.io/selects/about/</link>
+      <link>https://dkuebric.github.io/selects/asdf/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dkuebric.github.io/selects/about/</guid>
+      <guid>https://dkuebric.github.io/selects/asdf/about/</guid>
       <description>How does it work By the 15th of each month, creators submit either a short piece of audio or a clip from a longer piece that has been edited to work as a stand-alone piece. I’ll listen to all of the pieces, cull them down to a roughly hour-long show, and put it out as a podcast on the 1st of the month. Then listeners then have until the 15th of the next month to listen and vote for their favorites.</description>
     </item>
     
     <item>
       <title>Submit</title>
-      <link>https://dkuebric.github.io/selects/submit/</link>
+      <link>https://dkuebric.github.io/selects/asdf/submit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dkuebric.github.io/selects/submit/</guid>
+      <guid>https://dkuebric.github.io/selects/asdf/submit/</guid>
       <description>What to submit Pieces of audio &amp;lt;10 minutes. They can be teasers or trailers for an episode or a show, or clips from an episode, but they need to stand alone and feel satisfying.
 How to submit Email selectspod@gmail.com and share your adio as a Google Drive link or Weshare link.
 Required: Submit pieces with your name, podcast/project name, and the best way people can reach you or see your other work.</description>
@@ -45,10 +45,10 @@ Required: Submit pieces with your name, podcast/project name, and the best way p
     
     <item>
       <title>Vote</title>
-      <link>https://dkuebric.github.io/selects/vote/</link>
+      <link>https://dkuebric.github.io/selects/asdf/vote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dkuebric.github.io/selects/vote/</guid>
+      <guid>https://dkuebric.github.io/selects/asdf/vote/</guid>
       <description>Come back between Sep 1st and Sep 15th to vote on the your favorite pieces for the first episode of Selects.</description>
     </item>
     

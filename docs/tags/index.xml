@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on selects.show - a revue of independent podcasting</title>
-    <link>https://dkuebric.github.io/selects/tags/</link>
+    <link>https://dkuebric.github.io/selects/asdf/tags/</link>
     <description>Recent content in Tags on selects.show - a revue of independent podcasting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Selects Show Copyright (c) 2017, Ben Kuebrich</copyright>
     <lastBuildDate>Tue, 25 Aug 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dkuebric.github.io/selects/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dkuebric.github.io/selects/asdf/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Episode</title>
-      <link>https://dkuebric.github.io/selects/tags/episode/</link>
+      <link>https://dkuebric.github.io/selects/asdf/tags/episode/</link>
       <pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://dkuebric.github.io/selects/tags/episode/</guid>
+      <guid>https://dkuebric.github.io/selects/asdf/tags/episode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preview</title>
-      <link>https://dkuebric.github.io/selects/tags/preview/</link>
+      <link>https://dkuebric.github.io/selects/asdf/tags/preview/</link>
       <pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://dkuebric.github.io/selects/tags/preview/</guid>
+      <guid>https://dkuebric.github.io/selects/asdf/tags/preview/</guid>
       <description></description>
     </item>
     

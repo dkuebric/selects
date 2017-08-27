@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on selects.show - a revue of independent podcasting</title>
-    <link>https://dkuebric.github.io/selects/categories/</link>
+    <link>https://dkuebric.github.io/selects/asdf/categories/</link>
     <description>Recent content in Categories on selects.show - a revue of independent podcasting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Selects Show Copyright (c) 2017, Ben Kuebrich</copyright>
     
-	<atom:link href="https://dkuebric.github.io/selects/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dkuebric.github.io/selects/asdf/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Listen</title>
-      <link>https://dkuebric.github.io/selects/categories/listen/</link>
+      <link>https://dkuebric.github.io/selects/asdf/categories/listen/</link>
       <pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://dkuebric.github.io/selects/categories/listen/</guid>
+      <guid>https://dkuebric.github.io/selects/asdf/categories/listen/</guid>
       <description></description>
     </item>
     
