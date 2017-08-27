@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://dkuebric.github.io/selects/episodes/2015/08/25/episode-1/</loc>
+    <lastmod>2015-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dkuebric.github.io/selects/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dkuebric.github.io/selects/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dkuebric.github.io/selects/tags/episode/</loc>
+    <lastmod>2015-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dkuebric.github.io/selects/episodes/</loc>
+    <lastmod>2015-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dkuebric.github.io/selects/categories/listen/</loc>
+    <lastmod>2015-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dkuebric.github.io/selects/tags/preview/</loc>
+    <lastmod>2015-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dkuebric.github.io/selects/submit/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dkuebric.github.io/selects/tags/</loc>
+    <lastmod>2015-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dkuebric.github.io/selects/vote/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dkuebric.github.io/selects/</loc>
+    <lastmod>2015-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
