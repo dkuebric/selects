@@ -4,7 +4,7 @@ date = "2015-08-25"
 type = "blog"
 tags = ["episode", "preview"]
 categories = ["listen"]
-banner = "img/selects/crane.png"
+banner = "../img/selects/crane.png"
 +++
 
 Welcome to Selects.  Here’s a preview episode, explaining the show:
