@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dkuebric.github.io/selects/asdf/episodes/2015/08/25/episode-1/</loc>
+    <loc>http://selects.kuebri.ch/episodes/2015/08/25/episode-1/</loc>
     <lastmod>2015-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dkuebric.github.io/selects/asdf/about/</loc>
+    <loc>http://selects.kuebri.ch/about/</loc>
   </url>
   
   <url>
-    <loc>https://dkuebric.github.io/selects/asdf/categories/</loc>
+    <loc>http://selects.kuebri.ch/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dkuebric.github.io/selects/asdf/tags/episode/</loc>
-    <lastmod>2015-08-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dkuebric.github.io/selects/asdf/episodes/</loc>
+    <loc>http://selects.kuebri.ch/tags/episode/</loc>
     <lastmod>2015-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dkuebric.github.io/selects/asdf/categories/listen/</loc>
+    <loc>http://selects.kuebri.ch/episodes/</loc>
     <lastmod>2015-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dkuebric.github.io/selects/asdf/tags/preview/</loc>
+    <loc>http://selects.kuebri.ch/categories/listen/</loc>
     <lastmod>2015-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dkuebric.github.io/selects/asdf/submit/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dkuebric.github.io/selects/asdf/tags/</loc>
+    <loc>http://selects.kuebri.ch/tags/preview/</loc>
     <lastmod>2015-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dkuebric.github.io/selects/asdf/vote/</loc>
+    <loc>http://selects.kuebri.ch/submit/</loc>
   </url>
   
   <url>
-    <loc>https://dkuebric.github.io/selects/asdf/</loc>
+    <loc>http://selects.kuebri.ch/tags/</loc>
+    <lastmod>2015-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://selects.kuebri.ch/vote/</loc>
+  </url>
+  
+  <url>
+    <loc>http://selects.kuebri.ch/</loc>
     <lastmod>2015-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

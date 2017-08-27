@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Episode on selects.show - a revue of independent podcasting</title>
-    <link>https://dkuebric.github.io/selects/asdf/tags/episode/</link>
+    <link>http://selects.kuebri.ch/tags/episode/</link>
     <description>Recent content in Episode on selects.show - a revue of independent podcasting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Selects Show Copyright (c) 2017, Ben Kuebrich</copyright>
     <lastBuildDate>Tue, 25 Aug 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dkuebric.github.io/selects/asdf/tags/episode/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://selects.kuebri.ch/tags/episode/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Episode 1 Preview</title>
-      <link>https://dkuebric.github.io/selects/asdf/episodes/2015/08/25/episode-1/</link>
+      <link>http://selects.kuebri.ch/episodes/2015/08/25/episode-1/</link>
       <pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://dkuebric.github.io/selects/asdf/episodes/2015/08/25/episode-1/</guid>
+      <guid>http://selects.kuebri.ch/episodes/2015/08/25/episode-1/</guid>
       <description>&lt;p&gt;Welcome to Selects.  Here’s a preview episode, explaining the show:&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
